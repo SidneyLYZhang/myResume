@@ -1,6 +1,6 @@
 [[list]]
     name = "Python"
-    icon = "https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"
+    icon = "python-original"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
@@ -8,7 +8,7 @@
     """
 [[list]]
     name = "Rust"
-    icon = "https://github.com/devicons/devicon/raw/master/icons/rust/rust-plain.svg"
+    icon = "rust-plain"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
@@ -16,16 +16,23 @@
     """
 [[list]]
     name = "Haskell"
-    icon = "https://github.com/devicons/devicon/raw/master/icons/haskell/haskell-original.svg"
+    icon = "haskell-original"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,
         exercitationem praesentium nihil.
     """
-
 [[list]]
     name = "Linux"
-    icon = "https://github.com/devicons/devicon/raw/master/icons/haskell/haskell-original.svg"
+    icon = "haskell-original"
+    text = """
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+        Voluptatibus quia, nulla! Maiores et perferendis eaque,
+        exercitationem praesentium nihil.
+    """
+[[list]]
+    name = "Linux"
+    icon = "haskell-original"
     text = """
         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
         Voluptatibus quia, nulla! Maiores et perferendis eaque,

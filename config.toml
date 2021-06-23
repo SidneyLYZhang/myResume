@@ -1,29 +1,50 @@
-baseURL = ""
+baseURL = "https://sidneylyzhang.github.io/ExtendIntro/"
 languageCode = "zh-cn"
-theme = "SimpleIntro"
-title = "About Sidney Zhang"
+theme = "ExtendIntro"
+title = "Who am I"
 publishDir = "public"
+themesDir = ""
 
 [params]
     mainbg = "https://picsum.photos/1920/1080"
-    name = "Liangyi Zhang"
-    mainTitle = "Simple-intro"
-    mainText = "Just simple intro theme for hugo"
+    name = "Sidney Zhang"
+    mainTitle = "Sidney Zhang"
+    mainText = "自认为很萌的透明Data Scientist……"
 
 [menus]
     [[menu.main]]
         identifier = "about"
+        pre = ""
         name = "About"
         url = "#about"
+        weight = 1
     [[menu.main]]
         identifier = "skills"
+        pre = ""
         name = "Skills"
         url = "#skills"
+        weight = 4
     [[menu.main]]
         identifier = "languages"
+        pre = ""
         name = "Languages"
         url = "#languages"
+        weight = 5
     [[menu.main]]
         identifier = "projects"
+        pre = ""
         name = "Projects"
         url = "#projects"
+        weight = 3
+    [[menu.main]]
+        identifier = "experiences"
+        pre = ""
+        name = "Experiences"
+        url = "#experiences"
+        weight = 2
+    [[menu.main]]
+        identifier = "blog"
+        pre = "<i class='fas fa-home'></i>"
+        name = ""
+        url = "https://lyzhang.me"
+        weight = 6

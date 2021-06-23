@@ -2,4 +2,4 @@
 
 My Resume 2021
 
-Theme from [SimpleIntro](https://github.com/gangjun06/SimpleIntro)
+Theme from [ExtendIntro](https://github.com/SidneyLYZhang/ExtendIntro)

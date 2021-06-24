@@ -1,0 +1,17 @@
+[[list]]
+    title = "专利·两枚"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/zhuanli.jpg"
+    text = """
+        都是公司需求下的专利……更多还是基于构建思路的专利内容，一个专注于基本的算法竞争，
+        一个专注于transform在节目预测上的改造，都实现了不错的效果，并保证了在一定用户
+        体量下的使用效率。当然，transform改造这个可以写论文的，但是领导更喜欢专利，
+        而非论文……
+    """
+    url = "https://aiqicha.baidu.com/patent/info?pid=30235062805920&referId=10c2306c541f1aca4b4d4b138df061f6"
+[[list]]
+    title = "ExtendIntro"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/tn.png"
+    text = """
+        我这个简历页面的Hugo模板~其实也是在别人基础上修改的~
+    """
+    url = "https://github.com/SidneyLYZhang/ExtendIntro"

@@ -1,24 +1,19 @@
 [[list]]
     title = "English"
-    image = "https://picsum.photos/400/200"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/english.jpg"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        从小学到大，读写英文文档绝对富裕的水平，听的水平还好，在嘴皮子上可能就不那么流利了……
     """
 [[list]]
     title = "Deutsch"
-    image = "https://picsum.photos/400/200"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/deutsch.jpg"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        最高达到过C1水平的德语……在德国留学过，所以需要使用的语言，现在嘛，好久没用了，水平已然退化了……
+        可能只有A2-B1水平了吧？但是读写或许水平还行~
     """
 [[list]]
     title = "中文"
-    image = "https://picsum.photos/400/200"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/chinese.jpg"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        中国人说中国话……普通话……闽南语、粤语、吴语一般情况下我听不懂，毕竟是很男的方言啊……
     """

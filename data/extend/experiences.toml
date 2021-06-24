@@ -1,30 +1,30 @@
 [[list]]
     jobtitle = "Data Scientist"
-    image = "https://picsum.photos/400/200"
-    company = "lorem company"
+    image = "https://gwsc.chinaott.com/files/Resource/wldsweb/images/2010/15/1024182241422234.jpg"
+    company = "NewTV 未来电视"
     datetime = "2018-06 ~ Now"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        分析用户行为、构建用户画像、设计推荐系统、为智能化系统提供基础能力，
+        还负责过一段时间的知识图谱创建与应用。
+        当然还要定期提供用户行为的分析报告，也会做一些同行业分析。
+        在这期间还写了两个专利……
     """
 [[list]]
     jobtitle = "Data Analyst"
     image = "https://picsum.photos/400/200"
-    company = "lorem zwei company"
-    datetime = "2015-12 ~ 2018-06"
+    company = "广正海通资产管理有限公司"
+    datetime = "2016-10 ~ 2018-06"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        做的是咨询公司的数据分析师，主要针对实物资产的价值变化，以及实物资产
+        的状态变化预测与风险评估。
+        主要通过状态叠加与机器学习构建模型，进行预测和价值评估。
     """
 [[list]]
-    jobtitle = "Algorithm Engineer"
-    image = "https://picsum.photos/400/200"
-    company = "lorem drei company"
-    datetime = "2010-10 ~ 2015-12"
+    jobtitle = "Senior Data Analyst"
+    image = "https://github.com/SidneyLYZhang/myResume/raw/main/images/jiaye.jpg"
+    company = "嘉业投资管理有限公司"
+    datetime = "2013-11 ~ 2016-10"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        这是在小贷公司做数据分析师，负责过风险把控，一直在做的是投资收益分析与预测。
+        构建过一个风险分摊模型，知道我离职，一直是这个模型支撑业务的底层运转。
     """

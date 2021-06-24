@@ -2,39 +2,38 @@
     name = "Python"
     icon = "python-original"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        一直使用的工具之一，数据科学的必由之物，对于pandas、dask、vaex、
+        pytorch、tensorflow、sklearn这一类常用工具可谓熟的不得了~Jupyter
+        也用得很多很多……
     """
 [[list]]
     name = "Rust"
     icon = "rust-plain"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        最近学会的新东西，安全性是学这门语言的动力，毕竟从我的工作经验来说，数据
+        在很多时候都是隐私敏感的，再加上Rust优秀的函数式编程的支持，写起来
+        还是很开心的。
     """
 [[list]]
     name = "Haskell"
     icon = "haskell-original"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        纯函数式编程语言，学的最久的一门编程语言了。但用来coding的机会很少……
+        用这门语言写过很多公司内部的模型示例，用来和开发沟通模型结构和逻辑。
+        （这是另辟蹊径的用法吧？）
     """
 [[list]]
     name = "Linux"
-    icon = "haskell-original"
+    icon = "linux-original"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        需要公司电脑做各种工作，部门内服务器、共享文件神马的……再加上公司电脑
+        配置比较垃圾，所以用的Arch Linux。Bash、Zsh、PowerShell都十分熟悉，
+        当然定期任务也有很多……
     """
 [[list]]
-    name = "Linux"
-    icon = "haskell-original"
+    name = "graphql & Neo4j"
+    icon = "graphql-plain"
     text = """
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-        Voluptatibus quia, nulla! Maiores et perferendis eaque,
-        exercitationem praesentium nihil.
+        做了好久的知识图谱……对Neon4j还有graphQL……这个真的是无语啊……有扽多赶鸭子
+        上架的感觉……但最终结果还算ok……
     """

@@ -1,9 +1,9 @@
-title = "Hello, World!"
+title = "Hi，Everyone!"
 
 text = """
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-Voluptatibus quia, nulla! Maiores et perferendis eaque,
-exercitationem praesentium nihil.
+我喜欢数学、喜欢研究那些虚无缥缈的东西。甚至以前也喜欢追求大众化的成功，
+但是现在，做一个透明的研究自己喜欢东西的人，也觉得不错，
+学习与己想和，再与人相和、与天相和，或许更值得现在的我去一直追求。
 """
 
 [[link]]
